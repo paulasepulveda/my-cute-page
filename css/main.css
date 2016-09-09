@@ -1,0 +1,87 @@
+body {
+	font-family: "Oswald'";
+	font-weight: 600;
+	margin-top:20px;
+}
+
+nav ul a {
+	height: 200px;
+	text-decoration: none;
+	margin-left:  200px;
+	color: black;
+	margin-bottom: 50px;
+}
+
+.imagen {
+	height: 500px;
+	background-image: url(../images/background.jpg);
+	color: white;
+	margin-top: 20px;
+	width: 100%;
+	text-align: center;
+	padding: 100px;
+	font-size: 30px;
+}
+
+.titulo {
+	text-align: center;
+	padding: 40px;
+	font-size: 20px;
+	color: #AF16B9;
+}
+
+.descripcion {
+	background-image: url(../images/tile1.png);
+	height: 450px;
+}
+
+.fotito {
+	border: 1px solid;
+	margin-left: 180px;
+	padding:5px; 
+}
+
+.favoritos {
+	text-align: center;
+	margin-top:100px;
+	margin-bottom: 50px;
+	font-size: 20px;
+	color:#AF16B9;
+}
+
+.cosas {
+	padding: 10px;
+}
+
+.gatitos {
+	border-radius: 100%;
+	border:2px blue solid;
+	padding: 5px;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+.redes {
+	background-image:url(../images/tile2.png);
+	height: 350px;
+}
+
+.contacto {
+	text-align: center;
+	font-size: 20px;
+	padding: 50px;
+	color:#AF16B9;
+}
+	
+.icono {
+	width: 150px;
+	height: 150px;
+	padding: 10px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.cuadro {
+	margin-right: 300px;
+	margin-left:200px;
+}
